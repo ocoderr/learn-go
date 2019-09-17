@@ -18,4 +18,6 @@ func main() {
 
 	// print variable
 	fmt.Println(str)
+	fmt.Println([]byte(str))
+
 }
